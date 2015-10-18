@@ -1,0 +1,82 @@
+<webalbum version="1.8.2">
+  <title>Angel Occupational Therapy, Inc.</title>
+  <description>
+    <line>Have a look around!</line>
+  </description>
+  <settings>
+    <photosize width="640" height="480">medium</photosize>
+    <thumbsize width="140" height="105">large</thumbsize>
+    <homeurl>http://angeloccupationaltherapy.awardspace.biz/</homeurl>
+    <outputdirectory>C:\Album\AngelOccupationalTherapy\</outputdirectory>
+    <navigateinloop>True</navigateinloop>
+  </settings>
+  <layout>
+    <colourscheme>Midnight</colourscheme>
+    <pagecolor>8404992</pagecolor>
+    <textcolor>15793151</textcolor>
+    <linkcolor>16764315</linkcolor>
+    <hotlinkcolor>16773345</hotlinkcolor>
+    <thumbnailrows>5</thumbnailrows>
+    <thumbnailcols>4</thumbnailcols>
+    <navigationbelowphoto>False</navigationbelowphoto>
+  </layout>
+  <photographs>
+    <photo>
+      <filename>C:\Jonathan\Projects\Images\AngelOT\Photos\Welcome to Angel Occupational Therapy, Inc! (1).JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Jonathan\Projects\Images\AngelOT\Photos\Welcome to Angel Occupational Therapy, Inc! (2).JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Jonathan\Projects\Images\AngelOT\Photos\Welcome to Angel Occupational Therapy, Inc! (3).JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Jonathan\Projects\Images\AngelOT\Photos\Welcome to Angel Occupational Therapy, Inc! (4).JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Jonathan\Projects\Images\AngelOT\Photos\Welcome to Angel Occupational Therapy, Inc! (5).JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Jonathan\Projects\Images\AngelOT\Photos\Welcome to Angel Occupational Therapy, Inc! (6).JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Jonathan\Projects\Images\AngelOT\Photos\Welcome to Angel Occupational Therapy, Inc! (7).JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Jonathan\Projects\Images\AngelOT\Photos\Welcome to Angel Occupational Therapy, Inc! (8).JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Jonathan\Projects\Images\AngelOT\Photos\Welcome to Angel Occupational Therapy, Inc! (9).JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Jonathan\Projects\Images\AngelOT\Photos\Welcome to Angel Occupational Therapy, Inc! (10).JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Jonathan\Projects\Images\AngelOT\Photos\Welcome to Angel Occupational Therapy, Inc! (11).JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Jonathan\Projects\Images\AngelOT\Photos\Welcome to Angel Occupational Therapy, Inc! (12).JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Jonathan\Projects\Images\AngelOT\Photos\Welcome to Angel Occupational Therapy, Inc! (13).JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Jonathan\Projects\Images\AngelOT\Photos\Welcome to Angel Occupational Therapy, Inc! (14).JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Jonathan\Projects\Images\AngelOT\Photos\Welcome to Angel Occupational Therapy, Inc! (15).JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Jonathan\Projects\Images\AngelOT\Photos\Welcome to Angel Occupational Therapy, Inc! (16).JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Jonathan\Projects\Images\AngelOT\Photos\Welcome to Angel Occupational Therapy, Inc! (17).JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Jonathan\Projects\Images\AngelOT\Photos\Welcome to Angel Occupational Therapy, Inc! (18).JPG</filename>
+    </photo>
+    <photo>
+      <filename>C:\Jonathan\Projects\Images\AngelOT\Photos\Welcome to Angel Occupational Therapy, Inc! (19).JPG</filename>
+    </photo>
+  </photographs>
+</webalbum>
